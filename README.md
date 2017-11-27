@@ -1,0 +1,2 @@
+# mining
+bitcoing mining test
